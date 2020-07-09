@@ -1,0 +1,19 @@
+public class HumanPlayer implements Player
+{
+  private String piece;
+  public HumanPlayer(String piece)
+  {
+    this.piece = piece;
+  
+  
+  }
+  public void choose(String number)
+  {
+    
+    
+    
+  }
+
+
+
+}

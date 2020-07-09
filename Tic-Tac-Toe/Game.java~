@@ -1,0 +1,18 @@
+public class Game
+{
+  private Player playerOne;
+  private Player playerTwo;
+  private char[][] board;
+  public Game(Player p1, Player p2)
+  {
+    playerOne = p1;
+    playerTwo = p2;
+    board = new char[3][];
+  
+  
+  }
+
+
+
+
+}

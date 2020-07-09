@@ -1,0 +1,17 @@
+public class TicTacToePiece
+{
+  
+  private char piece;
+  private Player player;
+  public TicTacToePiece(char piece, Player player)
+  {
+    this.piece = piece;
+  
+  
+  }
+
+
+
+
+
+}
